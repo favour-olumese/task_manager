@@ -59,6 +59,11 @@ task_manager/
 - Clear and comprehensive documentation of API endpoints.
 - Compliance with the provided instructions and requirements.
 
+## Postman Documentation
+
+Kindly find the Postman documentation here;  
+https://documenter.getpostman.com/view/43924120/2sB2cd5Jpj
+
 ## Note
 Remember that this task is focused on backend development skills using Go and Gin Framework. Avoid unnecessary complexity in the implementation.
 Database integration with persistent storage will be addressed in subsequent lessons; hence, focus on implementing data storage in memory for this task.
